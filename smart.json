@@ -3,7 +3,7 @@
   "description": "jquery.event.drag, repackaged for Meteor",
   "homepage": "http://threedubmedia.com/code/event/drag",
   "author": "Christoph Wagner <github@christophwagner.me>",
-  "version": "2.2",
+  "version": "2.2.0",
   "git": "https://github.com/cw4gn3r/meteor-jquery-event-drag.git",
   "packages": {}
 }
